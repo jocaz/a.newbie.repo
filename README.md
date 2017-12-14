@@ -1,2 +1,5 @@
 # a.newbie.repo
-uno mas
+greetings user
+
+jocaz here ('cause jocas was already used)
+learning programming languages on my own.
